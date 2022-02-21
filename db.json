@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "attend": true,
+      "laptop": true,
+      "quali": "btech",
+      "year": "2122",
+      "dob": "221",
+      "gender": "m",
+      "state": "Maharashtra",
+      "uname": "Neha",
+      "pass": "122",
+      "id": 1
+    }
+  ]
+}

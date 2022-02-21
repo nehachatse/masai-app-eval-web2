@@ -1,0 +1,27 @@
+.cont{
+    border: 2px solid black;
+    padding: 1rem;
+    width:70%;
+    margin: 20px auto;
+    font-size:1.3rem;
+    border-radius: 10px;
+}
+.box{
+    text-align:left;
+}
+label{
+    margin-left: 2rem;
+}
+
+button{
+    border: 1px solid black;
+    background: white;
+    padding: 0.6rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.2);
+}
